@@ -2892,7 +2892,7 @@ figure {
 }
 
 .section-hero {
-  height: 90vh;
+  height: 95vh;
   margin-top: -83px;
   padding-top: 60px;
   background-image: linear-gradient(180deg, rgba(26, 27, 29, 0.65), rgba(26, 27, 29, 0.65)), url('../images/pexels-anete-lusina-4792494.jpg');
@@ -8599,7 +8599,7 @@ figure {
   }
 
   .section-hero {
-    height: 70vh;
+    height: 75vh;
   }
 
   .benefit-item-desc.color-white {
@@ -10248,6 +10248,10 @@ figure {
 
   .fact-counter {
     padding-top: 20px;
+  }
+
+  .section-hero {
+    height: 80vh;
   }
 
   .about-block-content {
@@ -12222,6 +12226,10 @@ figure {
   .fact-counter {
     -ms-grid-columns: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
+  }
+
+  .section-hero {
+    height: 85vh;
   }
 
   .about-block-content {
