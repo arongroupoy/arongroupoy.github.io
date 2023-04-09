@@ -2900,8 +2900,8 @@ figure {
   height: 95vh;
   margin-top: -83px;
   padding-top: 60px;
-  background-image: linear-gradient(180deg, rgba(26, 27, 29, 0.65), rgba(26, 27, 29, 0.65)), url('../images/pexels-anete-lusina-4792494.jpg');
-  background-position: 0px 0px, 50% 50%;
+  background-image: linear-gradient(180deg, rgba(26, 27, 29, 0.65), rgba(26, 27, 29, 0.65)), url('../images/WhatsApp-Image-2023-04-07-at-15.17.45-1.jpeg');
+  background-position: 0px 0px, 50% 40%;
   background-size: auto, cover;
   background-attachment: scroll, fixed;
 }
@@ -7044,6 +7044,11 @@ figure {
   letter-spacing: -1px;
 }
 
+.heading-5.l.centered {
+  margin-bottom: 32px;
+  text-align: center;
+}
+
 .heading-5.s {
   margin-top: 0px;
   margin-bottom: 16px;
@@ -8078,6 +8083,60 @@ figure {
 
 .ceo-title {
   color: #f4f4f4;
+}
+
+.slider-3 {
+  height: 650px;
+  border-radius: 32px;
+}
+
+.image-23 {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.slide-2 {
+  border-radius: 32px;
+  background-image: url('../images/WhatsApp-Image-2023-04-07-at-15.17.41.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slide-3 {
+  border-radius: 32px;
+  background-image: url('../images/WhatsApp-Image-2023-04-07-at-15.17.43-1.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hide-slider-nav {
+  display: none;
+}
+
+.slide-4 {
+  border-radius: 32px;
+  background-image: url('../images/WhatsApp-Image-2023-04-07-at-15.17.42.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slide-5 {
+  border-radius: 32px;
+  background-image: url('../images/WhatsApp-Image-2023-04-07-at-15.17.44-1.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slide-6 {
+  border-radius: 32px;
+  background-image: url('../images/WhatsApp-Image-2023-04-07-at-15.17.46.jpeg');
+  background-position: 50% 20%;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 991px) {
@@ -9706,6 +9765,10 @@ figure {
 
   .button-7:hover {
     background-color: #265cff;
+  }
+
+  .slider-3 {
+    height: 500px;
   }
 }
 
@@ -11506,6 +11569,10 @@ figure {
   .icon-list-text {
     font-size: 16px;
   }
+
+  .slider-3 {
+    height: 400px;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -12237,6 +12304,8 @@ figure {
 
   .section-hero {
     height: 85vh;
+    background-image: linear-gradient(180deg, rgba(26, 27, 29, 0.65), rgba(26, 27, 29, 0.65)), url('../images/WhatsApp-Image-2023-04-07-at-15.17.45-1.jpeg');
+    background-position: 0px 0px, 20% 50%;
   }
 
   .about-block-content {
@@ -13030,6 +13099,11 @@ figure {
     padding-bottom: 24px;
   }
 
+  .heading-5.l.centered {
+    margin-bottom: 24px;
+    text-align: left;
+  }
+
   .image-wrapper {
     height: 260px;
   }
@@ -13186,6 +13260,10 @@ figure {
   .faq-item-2 {
     padding-right: 16px;
     padding-left: 16px;
+  }
+
+  .slider-3 {
+    height: 250px;
   }
 }
 
